@@ -1,1 +1,1 @@
-FROM python:latest
+FROM python:latest@sha256:5f69d22a88dd4cc4ee1576def19aef48c8faa1b566054c44291183831cbad13b
